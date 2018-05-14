@@ -1,2 +1,8 @@
-for i in range(1, 11):
-    open('/Users/milkcola/Documents/learn/{}.txt'.format(i),'w')
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'learn1.py'
+#
+# Created by: PyQt5 UI code generator 5.10.1
+#
+# WARNING! All changes made in this file will be lost!
+
